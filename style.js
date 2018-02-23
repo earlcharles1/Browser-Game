@@ -17,7 +17,7 @@
 
     var state = 'on';
     var on = "true";
-    var ctime = 4;
+    var ctime = 1;
 
     function time1() {
         ctime = ctime-1
